@@ -4,6 +4,8 @@ Created on Wed Sep  1 21:15:15 2021
 
 @author: Evgeniya Vorontsova
 
+LC Problem 58 Length of Last Word
+
 Given a string s consisting of some words 
 separated by some number of spaces, 
 return the length of the last word in the string.
